@@ -1,3 +1,9 @@
+<video id="videoPlayer" controls style="width: 100%; margin-top: 10px; display: none;"></video>
+
+<!-- Yangi tahrirlash tugmasi -->
+<button id="editButton" style="display: none; margin-top: 10px;">Tahrirlashni boshlash</button>
+
+<p id="statusArea" style="color: green; display: none;"></p>
 <!DOCTYPE html>
 <html lang="uz">
 <head>
